@@ -4,6 +4,15 @@ title: ""
 permalink: /Biography/
 author_profile: true
 ---
+A Brief Biography
+======
+
+
+
+
+
+
+
 
 Academic Qualifications
 ======
@@ -11,7 +20,7 @@ Overal GPA:3.66/4.0
 
 *Signal Processing* associated courses GPA: 3.91/4.0
 
-![grades](https://dukang4655.github.io/images/grade3.png)
+![grades](https://dukang4655.github.io/images/grade2.png)
 
 
 Horours & Awards
