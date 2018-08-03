@@ -37,4 +37,4 @@ Academic Excellence Scholarship－－－－－－－－－－－－－－－－�
 
 Beijing University of Technology Wisdom Trip Mathematical Modeling Contest: Second Prize－－－－－－2015 - 2016
 
-Merit Student(top 2%)－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－2014 - 2015
+Merit Student(top 2%)－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－2014 - 2015
