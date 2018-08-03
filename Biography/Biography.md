@@ -7,8 +7,9 @@ author_profile: true
 
 Academic Qualifications
 ======
-Overal GPA:3.66/4.0     
-""
+Overal GPA:3.66/4.0
+
+"grades.png"
 
 
 Horours & Awards
