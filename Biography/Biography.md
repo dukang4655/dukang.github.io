@@ -29,7 +29,7 @@ National Undergraduate Mathematical Contest in Modeling, Beijing: First Prize－
 
 The Mathematical Contest in Modeling (MCM/ICM): Honorable Mention－－－－－－－－－－－－－－－－Spring 2017
 
-Beijing University of Technology ACM ICPC Qualification Contest: First Prize(ranking: 2/101)－－－Spring 2017
+Beijing University of Technology ACM ICPC Qualification Contest: First Prize(ranking: 2/101)－－－－－－Spring 2017
 
 Beijing University of Technology Physics Contest: Honorable Mention－－－－－－－－－－－－－－－－－－Summer 2016
 
