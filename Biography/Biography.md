@@ -25,13 +25,13 @@ Overal GPA:3.66/4.0
 
 Horours & Awards
 ======
-National Undergraduate Mathematical Contest in Modeling, Beijing: First Prize－－－－－－－－－－－－－－－－－－－－－－－Summer 2017
+National Undergraduate Mathematical Contest in Modeling, Beijing: First Prize－－－－－－－－－－－－－－－－－－Summer 2017
 
-The Mathematical Contest in Modeling (MCM/ICM): Honorable Mention－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－Spring 2017
+The Mathematical Contest in Modeling (MCM/ICM): Honorable Mention－－－－－－－－－－－－－－－－－－－－－－Spring 2017
 
-Beijing University of Technology ACM ICPC Qualification Contest: First Prize(ranking: 2/101)－－－－－－－－－－－－－－Spring 2017
+Beijing University of Technology ACM ICPC Qualification Contest: First Prize(ranking: 2/101)－－－－－－－－－－－－Spring 2017
 
-Beijing University of Technology Physics Contest: Honorable Mention－－－－－－－－－－－－－－－－－－－－－－－－－－－－－Summer 2016
+Beijing University of Technology Physics Contest: Honorable Mention－－－－－－－－－－－－－－－－－－－－－－Summer 2016
 
 Academic Excellence Scholarship－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－2014 - 2016
 
