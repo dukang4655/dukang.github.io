@@ -8,8 +8,8 @@ author_profile: true
 Academic Qualifications
 ======
 Overal GPA:3.66/4.0
-Ma
-![grades](https://dukang4655.github.io/images/grade2.png)
+Signal Processing associated courses grades:
+![grades](https://dukang4655.github.io/images/grade3.png)
 
 
 Horours & Awards
