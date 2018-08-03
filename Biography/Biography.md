@@ -25,7 +25,7 @@ Overal GPA:3.66/4.0
 
 *Electronic Technology* associated courses GPA: 4.0/4.0
 
-![grades](https://dukang4655.github.io/images/grade7.png)
+![grades](https://dukang4655.github.io/images/gg.png)
 
 *Communication Technology* associated courses GPA: 2.77/4.0
 
