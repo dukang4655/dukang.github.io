@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Biography"
+title: ""
 permalink: /Biography/
 author_profile: true
 ---
@@ -8,8 +8,7 @@ author_profile: true
 Academic Qualifications
 ======
 Overal GPA:3.66/4.0     
-Signal Processing Related Courses GPA:3.91/4.0
-
+""
 
 
 Horours & Awards
