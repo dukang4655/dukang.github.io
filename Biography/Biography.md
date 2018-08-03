@@ -9,7 +9,8 @@ Academic Qualifications
 ======
 Overal GPA:3.66/4.0
 
-"grades.png"
+![grades](dukang4655.github.io/images/grades.png)
+
 
 
 Horours & Awards
