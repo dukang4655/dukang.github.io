@@ -31,10 +31,10 @@ The Mathematical Contest in Modeling (MCM/ICM): Honorable Mention－－－－－
 
 Beijing University of Technology ACM ICPC Qualification Contest: First Prize(ranking: 2/101)－－－－－－Spring 2017
 
-Beijing University of Technology Physics Contest: Honorable Mention－－－－－－－－－－－－－－－－－－Summer 2016
+Beijing University of Technology Physics Contest: Honorable Mention－－－－－－－－－－－－－－－－Summer 2016
 
-Academic Excellence Scholarship－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－2014 - 2016
+Academic Excellence Scholarship－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－2014 - 2016
 
 Beijing University of Technology Wisdom Trip Mathematical Modeling Contest: Second Prize－－－－－－2015 - 2016
 
-Merit Student(top 2%)－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－2014 - 2015
+Merit Student(top 2%)－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－2014 - 2015
