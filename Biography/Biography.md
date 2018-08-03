@@ -8,8 +8,8 @@ author_profile: true
 Academic Qualifications
 ======
 Overal GPA:3.66/4.0
-
-![grades](https://dukang4655.github.io/images/grades.png)
+Ma
+![grades](https://dukang4655.github.io/images/grade2.png)
 
 
 Horours & Awards
