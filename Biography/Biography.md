@@ -20,7 +20,7 @@ Overal GPA:3.66/4.0
 
 *Signal Processing* associated courses GPA: 3.91/4.0
 
-![grades](https://dukang4655.github.io/images/grade2.png)
+![grades](https://dukang4655.github.io/images/grade4.png)
 
 
 Horours & Awards
