@@ -9,7 +9,7 @@ Academic Qualifications
 ======
 Overal GPA:3.66/4.0
 
-![grades](dukang4655.github.io/images/grades.png)
+![grades](https://github.com/dukang4655/dukang4655.github.io/blob/master/images/grades.png)
 
 
 
