@@ -11,4 +11,4 @@ redirect_from:
   
   I obtained B.E. degree in Electrical Engineering from Beijing University of Technology(BJUT)，in July 2018. I used to work as an undergraduate reseacher at Signal and Information Pocessing Lab (SIPL) at BJUT. 
   
-  Download my CV [here]((https://dukang4655.github.io/files/CV_Dukang.pdf)
+  Download my CV [here](https://dukang4655.github.io/files/CV_Dukang.pdf).
