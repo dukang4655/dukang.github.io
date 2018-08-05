@@ -4,15 +4,6 @@ title: ""
 permalink: /Biography/
 author_profile: true
 ---
-A Brief Biography
-======
-I am fortunate to have grown up in a well-educated family
-
-
-
-
-
-
 
 Academic Qualifications
 ======
