@@ -1,6 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Project:Investigation on Wavelet Transform and Compressed Sensing"
+excerpt: "This [slide](http://dukang4655.github.io/files/WT&CS.pdf) is a summary of my first month intership at Philips Healthcare, which investigated certain amount of papers and tutorials on wavelet transform and compressed sensing.
+
 collection: portfolio
 ---
 
