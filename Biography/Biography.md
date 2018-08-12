@@ -35,6 +35,6 @@ Beijing University of Technology Physics Contest: Honorable Mention (*Summer 201
 
 Academic Excellence Scholarship (*2014 - 2016*)
 
-Beijing University of Technology Wisdom Trip Mathematical Modeling Contest: Second Prize (*2015 - 2016*)
+Beijing University of Technology Wisdom Trip Mathematical Modeling Contest: Second Prize (*2015*)
 
 Merit Student (top 2%, *2014 - 2015*)
