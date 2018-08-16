@@ -1,8 +1,9 @@
 ---
-layout: archive
+permalink: /
 title: "Four projects under my leadership"
 permalink: /portfolio/
 author_profile: true
+
 ---
 *Project 1: An investigation on Wavelet Transform and Compressed Sensing*
 ======
