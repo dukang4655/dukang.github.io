@@ -30,7 +30,7 @@ The segmentation result for right coronary artery (data, label, result):
 
 *Project 4: An interactive algorithm for 3D+t vascular structure segmentation based on Minimal Path Method*
 
-3D+t vascular structure segmentation is still an impractical work from my opinion, due to poor time continuity of the 3D data (our data is 20+ frames in a cardiac cycle). I designed an interactive algorithm to reduce human interactoin of Minimal Path based vessel centerline extraction method. I wrote a paper form [report](http://dukang4655.github.io/files/4d_VesselSeg.pdf) for my proposed method.
+3D+t vascular structure motion tracking or segmentation is still an impractical work from my opinion, due to poor time continuity of the 3D data (our data is 20+ frames in a cardiac cycle). I designed an interactive algorithm to reduce human interactoin of Minimal Path based vessel centerline extraction method. I wrote a paper form [report](http://dukang4655.github.io/files/4d_VesselSeg.pdf) for my proposed method.
 
 ![grades](https://dukang4655.github.io/images/vessel.png)
 
