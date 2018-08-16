@@ -4,9 +4,9 @@ title: ""
 permalink: /Biography/
 author_profile: true
 ---
-When I was a junior student, I was particular interested in mathematical modeling and solving algorithmic problem. But I'm aware that I'm not a typical Chinese genius olympic medalist of science, maybe I will never make contribution to the field I'm intersted in. But now, it seems I have got some clues —— to be a medical imging scientist. 
+When I was a junior student, I was particular interested in mathematical modeling and solving algorithmic problems. But I'm aware that I'm not a typical Chinese genius olympic medalist of science, maybe I will never make contribution to the field I'm intersted in. But now, it seems I have got some clues —— to be a medical imging scientist. 
 
-My first acquaintance with medical imaging was in National Undergraduate Mathematical Contest in Modeling, 2017. It was a problem about solving a CT reconstruction using Radon Transform. I realized was so cool to invent such a great method to visualize human tissues for the doctors. There are 
+My first acquaintance with medical imaging was in National Undergraduate Mathematical Contest in Modeling, 2017. It was a problem about solving a CT reconstruction using Radon Transform. I realized was so cool to perform such a great method/model to visualize human tissues for the doctors. And I got First Prize for my modeling thesis.  
 
 Academic Qualifications
 ======
