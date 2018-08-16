@@ -12,7 +12,7 @@ This [SLIDE](http://dukang4655.github.io/files/WT&CS.pdf) is a summary of my fir
 
 *Project 2: Developing GUI software for visualizing 3D motion of coronary arteries*
 
-This project is a collaboration between SIPL and Shandong Cancer Hospital on planning image guided radiation therapy (IGRT) for treatment of pulmonary tumor. If you're intereted in this project, please read this [REVIEW](http://dukang4655.github.io/files/review.pdf) on the characterion of 3D motion of coronary arteries. 
+This project is a collaboration between SIPL and Shandong Cancer Hospital on planning image guided radiation therapy (IGRT) for treatment of pulmonary tumor. If you're intereted in this project, please read this [REVIEW](http://dukang4655.github.io/files/review.pdf) I wrote on the characterion of 3D motion of coronary arteries. 
 
 ![grades](https://dukang4655.github.io/images/GUI.png)
 
