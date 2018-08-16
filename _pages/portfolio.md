@@ -19,7 +19,7 @@ This project is a collaboration between SIPL and Shandong Cancer Hospital on pla
 ======
 Proposed algorithm performed the segmentation of coronary artery and Pulmonary vessels automatically by labeling non-vascular structure and remove them to keep vascular structures. (This work will soon be submitted, so the details of the method is not availabe now.)
 
-This following pictures are the segmentation result for coronary artery 3D CT data.
+The following pictures are the segmentation result for coronary artery 3D CT data.
 
 The segmentation result for left coronary artery (data, label, result):
 
