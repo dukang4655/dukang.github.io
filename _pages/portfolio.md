@@ -22,7 +22,9 @@ Our algorithm performed the segmentation of coronary artery and Pulmonary vessel
 This following figures are the segmentation result for coronary artery 3D CT data.
 
 Left coronary:
+
 ![grades](https://dukang4655.github.io/images/left.png)
 
 Right coronary:
+
 ![grades](https://dukang4655.github.io/images/right.png)
