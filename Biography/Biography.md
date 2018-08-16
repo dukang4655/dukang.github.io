@@ -3,6 +3,7 @@ layout: archive
 title: "A brief biography"
 permalink: /Biography/
 author_profile: true
+
 ---
 When I was a junior student, I was particular interested in mathematical modeling and solving algorithmic problems. But I'm aware that I'm not a typical Chinese genius olympic medalist of science, maybe I will never make contribution to the field I'm intersted in. But now, it seems I have got some clues —— to be a medical imaging scientist. 
 
