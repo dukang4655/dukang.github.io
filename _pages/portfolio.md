@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Projects under my leadership (4)"
+title: "Projects under my leadership (#4)"
 permalink: /portfolio/
 author_profile: true
 
