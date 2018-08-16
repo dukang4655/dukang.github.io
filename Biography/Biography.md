@@ -5,7 +5,7 @@ permalink: /Biography/
 author_profile: true
 
 ---
-When I was a junior student, I was particular interested in mathematical modeling and solving algorithmic problems. But I'm aware that I'm not a typical Chinese genius Olympic medalist of science and I didn't enter a highly ranked university, maybe I will never make real contribution to the field I'm intersted in. But now, it seems I have got some clues —— to be a medical imaging scientist. 
+When I was a junior student, I was particular interested in mathematical modeling and solving algorithmic problems. But I'm aware that I'm not a typical Chinese genius Olympic medalist of science and most importantly, I didn't enter a highly ranked university, maybe I will never make real contribution to the field I'm intersted in. But four year later, it seems I had found the right path —— to be a medical imaging scientist. 
 
 My first acquaintance with medical imaging was in National Undergraduate Mathematical Contest in Modeling, 2017. It was a problem about solving CT reconstruction using Radon Transform. I realized was so cool to perform such a great method/model to visualize human tissues for doctors. And I got First Prize for my modeling thesis, which motivated me greatly to join SIPL and Philips Healthcare later.  
 
