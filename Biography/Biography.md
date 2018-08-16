@@ -19,6 +19,7 @@ Overal GPA:3.66/4.0
 ![grades](https://dukang4655.github.io/images/d22.png)
 
 *Communication Technology* associated courses GPA: 2.77/4.0
+[ :( It was a sad story...I was in an absence for some classes and also the exam week for health reasons.]
 
 ![grades](https://dukang4655.github.io/images/d33.png)
 
