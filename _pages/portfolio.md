@@ -15,5 +15,14 @@ This project is a collaboration between SIPL and Shandong Cancer Hospital on pla
 
 ![grades](https://dukang4655.github.io/images/GUI.png)
 
-Project 3: An algorithm for 3D+t vascular structure segmentation based on Graph Guts
+Project 3: An automatic algorithm for 3D vascular structure segmentation based on Graph Guts
 ======
+Our algorithm performed the segmentation of coronary artery and Pulmonary vessels automatically by Labeling non-vascular structure and remove them to keep vascular structures. (This work will soon be submitted, so the details of the method is not availabe now.)
+
+This following figures are the segmentation result for coronary artery 3D CT data.
+
+Left coronary:
+![grades](https://dukang4655.github.io/images/left.png)
+
+Right coronary:
+![grades](https://dukang4655.github.io/images/right.png)
