@@ -30,7 +30,7 @@ The segmentation result for right coronary artery (data, label, result):
 
 The overall segmentation  esult for the whole volume (with no post-processing):
 
-![grades](https://dukang4655.github.io/images/tu1.png)
+![grades](https://dukang4655.github.io/images/tu1.PNG)
 
 *Project 4: An interactive algorithm for 3D+t vascular structure segmentation based on Minimal Path Method*
 
