@@ -28,7 +28,7 @@ The segmentation result for right coronary artery (data, label, result):
 
 ![grades](https://dukang4655.github.io/images/right.png)
 
-The overall segmentation  esult for the whole volume (with no post-processing):
+The overall segmentation  result for the whole volume is as follows (with no post-processing):
 
 ![grades](https://dukang4655.github.io/images/tu1.PNG)
 
