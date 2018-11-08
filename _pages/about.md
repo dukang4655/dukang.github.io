@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-  I'm currently an software algorithm intern of [imsight](http://www.imsightmed.com/article/enteamlist), Beijing. My research interest includes computer vision, medical image analysis and reconstruction of MRI.
+  I'm currently an software algorithm intern of [imsight](http://www.imsightmed.com/article/enteamlist), Beijing. My research interest includes computer vision, medical image analysis and image reconstruction.
 
   I obtained my B.E. degree of Electrical Engineering from Beijing University of Technology (BJUT)，in July 2018. I used to be an undergraduate reseacher of Signal and Information Pocessing Lab (SIPL) at BJUT, under the supervison of [Dr. Hui Zhang](http://yanzhao.bjut.edu.cn/ds/2/1/2017227/14881584875387012_1.html) and [Prof Li Zhuo](http://yanzhao.bjut.edu.cn/ds/10/2015626/1435290308715_1.html).
 
